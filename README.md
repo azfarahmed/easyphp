@@ -1,1 +1,1 @@
-EasyPhp is a Light MVC PHP Framework specially designed for small PHP projects. EasyPhp is pre-integrated with Materialize a modern responsive front-end framework. EasyPhp works only with PHP version 5.3 or above. For documenatation Please visit - http://easyphp.tutbuzz.com.
+EasyPhp is a Light MVC PHP Framework specially designed for small PHP projects. EasyPhp is pre-integrated with Materialize a modern responsive front-end framework. EasyPhp works only with PHP version 5.3 or above. For documenatation Please visit - http://easyphp.tutbuzz.com. 
