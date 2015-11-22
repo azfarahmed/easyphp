@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /controller/
+Disallow: /library/
+Disallow: /model/
+Disallow: /plugins/

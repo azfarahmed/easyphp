@@ -1,0 +1,14 @@
+<IfModule mod_rewrite.c>
+
+#EasyPhp MVC Framework - www.tutbuzz.com
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_URI} !(\.css|\.js|\.png|\.jpg|\.gif|robots\.txt)$ [NC] 
+
+#Please change following RewriteBase directory path. ex: /framework/easyphp/ 
+RewriteBase /
+
+RewriteRule ^(.*)$ index.php?params=$1 [L,QSA]
+
+</IfModule>
